@@ -8,7 +8,8 @@ A simple, interactive Rock-Paper-Scissors game built with Vite and JavaScript wh
 - Built with Vite for fast development and hot-reloading
 
 ## Demo
-Add a screenshot or GIF here to show the game in action.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/133c2bd7-071b-4c42-a3cb-63bf2cdf62a3" />
+
 
 ## Installation
 1. Clone the repository
