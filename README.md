@@ -1,12 +1,27 @@
-# React + Vite
+# Rock-Paper-Scissors 🎮
+A simple, interactive Rock-Paper-Scissors game built with Vite and JavaScript where you can play against the computer, track your score, and enjoy a responsive, fun UI. This project demonstrates basic game logic, DOM manipulation, and frontend development with modern tooling.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
+- Play Rock-Paper-Scissors against a computer opponent
+- Score tracking per session
+- Responsive design for desktop and mobile
+- Built with Vite for fast development and hot-reloading
 
-Currently, two official plugins are available:
+## Demo
+Add a screenshot or GIF here to show the game in action.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+1. Clone the repository
+2. Navigate into the project folder: `cd rock-paper-scissors`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm run dev`
+5. Open your browser and start playing!
 
-## Expanding the ESLint configuration
+## Technologies Used
+- [Vite](https://vitejs.dev/)
+- JavaScript
+- HTML
+- CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## License
+This project is open-source under the MIT License.
